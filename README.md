@@ -1,1 +1,1 @@
-# mining-app
+# gcp-mining-app
